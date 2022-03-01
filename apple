@@ -1,4 +1,8 @@
 this is a new file called apple
 created just for fun
 third line added
+<<<<<<< HEAD
 4th line added in master branch
+=======
+added 4th line in branch1
+>>>>>>> branch1
